@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
 
+My name is Martin. I'm a computer science student at TUM, Germany.
+
+#### How to reach me:
+ - [🌐 Homepage](https://finkmartin.com)
+ - [✉️ Mail](mailto:info@finkmartin.com)
 <!--
 **martin-fink/martin-fink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
