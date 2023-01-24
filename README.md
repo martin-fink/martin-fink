@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-My name is Martin. I'm currently a masters student in computer science at [TUM](https://cit.tum.de) and research assistant at the [chair of Distributed Systems and Operating Systems][1].
+My name is Martin. I'm currently a master's student in computer science at [TUM](https://cit.tum.de) and a research assistant at the [chair of Distributed Systems and Operating Systems][1].
 
 ### Publications
 
@@ -9,7 +9,7 @@ My name is Martin. I'm currently a masters student in computer science at [TUM](
  
 ### Open source contributions
 
- - Microsofts machine code to LLVM IR lifter [MCtoLL](https://github.com/microsoft/llvm-mctoll)
+ - Microsoft's machine code to LLVM IR lifter [MCtoLL](https://github.com/microsoft/llvm-mctoll)
  
 For a full list, see my public repositories on [Github](https://github.com/martin-fink?tab=repositories), [GitLab](https://gitlab.com/martin-fink), and my [self-hosted GitLab instance](https://git.baey.eu/martin).
  
