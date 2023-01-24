@@ -11,7 +11,7 @@ My name is Martin. I'm currently a master's student in computer science at [TUM]
 
  - Microsoft's machine code to LLVM IR lifter [MCtoLL](https://github.com/microsoft/llvm-mctoll)
  
-For a full list, see my public repositories on [Github](https://github.com/martin-fink?tab=repositories), [GitLab](https://gitlab.com/martin-fink), and my [self-hosted GitLab instance](https://git.baey.eu/martin).
+For a full list, see my public repositories on [Github](https://github.com/martin-fink?tab=repositories), [GitLab](https://gitlab.com/martin-fink), my [self-hosted GitLab instance](https://git.baey.eu/martin), and my pinned repositories below.
  
 ### Experience
  
