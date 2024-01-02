@@ -14,7 +14,7 @@ pub   rsa4096 2020-01-05 [SC] [expires: 2027-01-05]
 uid           [ultimate] Martin Fink <martin@finkmartin.com>
 uid           [ultimate] Martin Fink <martinfink99@gmail.com>
 uid           [ultimate] Martin Fink <m@finkmartin.com>
-sub   rsa4096 2020-01-05 [E] [expires: 2024-01-05]
+sub   rsa4096 2020-01-05 [E] [expires: 2027-01-05]
 ```
  
 You can retrieve it with the following command:
